@@ -52,20 +52,19 @@ This project leverages **Deep Neural Networks (DNN)** for accurate, fast, and re
 
 ##  Repository Structure
 
-```
+```bash
+Breast_cancer_prediction/
+│
+├── Project_dnn.py              # Main script for training and evaluation
+├── dnn_model.py                # Deep Neural Network architecture
+├── api_server_dnn.py           # Flask API for serving predictions
+├── breast_cancer_dnn.h5        # Trained DNN model
+├── important_features.npy      # Selected important feature indices
+├── scaler.pkl                  # Data scaler for normalization
+├── predictions_dnn.csv         # Saved prediction results
+├── requirements.txt            # Project dependencies
+└── README.md                   # Project documentation
 
-.
-├── Project_dnn.py # Main script for training and evaluation
-├── dnn_model.py # Model architecture definition
-├── api_server_dnn.py # Flask API for serving predictions
-├── breast_cancer_dnn.h5 # Trained DNN model
-├── important_features.npy # Important feature indices
-├── scaler.pkl # Data scaler for normalization
-├── predictions_dnn.csv # Saved model predictions
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
-
-````
 
 ---
 
