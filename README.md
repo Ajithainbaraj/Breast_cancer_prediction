@@ -56,7 +56,7 @@ Flask API Server
 Real-time Prediction Output
 ```
 ---
-##Repository Structure
+## Repository Structure
 ```
 Breast_cancer_prediction/
 │
@@ -72,7 +72,7 @@ Breast_cancer_prediction/
 ```
 
 ---
-##Tech Stack
+## Tech Stack
 
 | Layer                   | Technology Used                 |
 | ----------------------- | ------------------------------- |
