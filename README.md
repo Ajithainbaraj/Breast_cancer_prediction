@@ -55,7 +55,7 @@ Flask API Server
         ↓
 Real-time Prediction Output
 ```
-
+##Repository Structure
 ```
 Breast_cancer_prediction/
 │
@@ -69,8 +69,10 @@ Breast_cancer_prediction/
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Project documentation
 ```
-```
+
+---
 ##Tech Stack
+
 | Layer                   | Technology Used                 |
 | ----------------------- | ------------------------------- |
 | **Frontend (Optional)** | Streamlit / React               |
@@ -80,7 +82,7 @@ Breast_cancer_prediction/
 | **Visualization**       | Matplotlib, Seaborn             |
 | **Deployment**          | Flask API / Docker (Optional)   |
 
-```
+---
 
 ## 🔧 Installation & Setup
 
