@@ -38,17 +38,23 @@ This project leverages **Deep Neural Networks (DNN)** for accurate, fast, and re
 
 ## Project Architecture
 
-    A[Dataset: Wisconsin Breast Cancer Data] --> B[Data Preprocessing]
-    B --> C[Feature Scaling & Selection]
-    C --> D[Deep Neural Network Model]
-    D --> E[Model Training & Validation]
-    E --> F[Model Storage: .h5 File]
-    F --> G[Flask API Server]
-    G --> H[Real-time Prediction Output]
+```text
+Dataset (Wisconsin Breast Cancer Data)
+        ↓
+Data Preprocessing
+        ↓
+Feature Scaling & Selection
+        ↓
+Deep Neural Network Model
+        ↓
+Model Training & Validation
+        ↓
+Model Storage (.h5)
+        ↓
+Flask API Server
+        ↓
+Real-time Prediction Output
 
-```
-
----
 
 Breast_cancer_prediction/
 │
