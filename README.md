@@ -50,9 +50,6 @@ This project leverages **Deep Neural Networks (DNN)** for accurate, fast, and re
 
 ---
 
-##  Repository Structure
-
-```bash
 Breast_cancer_prediction/
 │
 ├── Project_dnn.py              # Main script for training and evaluation
@@ -65,19 +62,15 @@ Breast_cancer_prediction/
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Project documentation
 
-
----
-
-##  Tech Stack
-
-| Layer | Technology Used |
-|-------|-----------------|
-| **Frontend (Optional)** | Streamlit / React |
-| **Backend** | Python (Flask) |
-| **AI/ML Framework** | TensorFlow, Keras, Scikit-learn |
-| **Data Handling** | NumPy, Pandas |
-| **Visualization** | Matplotlib, Seaborn |
-| **Deployment** | Flask API / Docker (optional) |
+**Tech Stack**
+| Layer                   | Technology Used                 |
+| ----------------------- | ------------------------------- |
+| **Frontend (Optional)** | Streamlit / React               |
+| **Backend**             | Python (Flask)                  |
+| **AI / ML Framework**   | TensorFlow, Keras, Scikit-learn |
+| **Data Handling**       | NumPy, Pandas                   |
+| **Visualization**       | Matplotlib, Seaborn             |
+| **Deployment**          | Flask API / Docker (Optional)   |
 
 ---
 
