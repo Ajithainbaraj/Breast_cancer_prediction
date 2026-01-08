@@ -55,8 +55,8 @@ Flask API Server
         ↓
 Real-time Prediction Output
 ```
-###Repository Structure
----
+##Repository Structure
+```
 Breast_cancer_prediction/
 │
 ├── Project_dnn.py              # Main script for training and evaluation
@@ -68,7 +68,7 @@ Breast_cancer_prediction/
 ├── predictions_dnn.csv         # Saved prediction results
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Project documentation
----
+```
 
 ---
 ##Tech Stack
