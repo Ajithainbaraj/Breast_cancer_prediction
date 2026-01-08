@@ -55,6 +55,7 @@ Flask API Server
         ↓
 Real-time Prediction Output
 ```
+---
 ##Repository Structure
 ```
 Breast_cancer_prediction/
