@@ -61,8 +61,9 @@ Breast_cancer_prediction/
 ├── predictions_dnn.csv         # Saved prediction results
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Project documentation
-
-**Tech Stack**
+'''
+'''
+##Tech Stack
 | Layer                   | Technology Used                 |
 | ----------------------- | ------------------------------- |
 | **Frontend (Optional)** | Streamlit / React               |
@@ -87,7 +88,7 @@ Breast_cancer_prediction/
 ```bash
 git clone https://github.com/Ajithainbaraj/Breast_cancer_prediction.git
 cd Breast_cancer_prediction
-````
+```
 
 2. **Install Dependencies**
 
